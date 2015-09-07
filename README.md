@@ -18,10 +18,10 @@ If you can think of offering an ldap self service in your environment you should
 get the self-service, e.g. the one from the [LTP Project](http://ltb-project.org/wiki/documentation/self-service-password),
 up and running and that's it.
  
-However there may be circumstances that an self-service is not an option. Here you go.
+However there may be circumstances that a self-service is not an option. Here you go.
 You may take this tool, extract the migrated ldap accounts from the target ldap, choose
-the user set to bulk reset. Decide for which domain you can securely provide passwords 
-via email and for which you want to generate files which you will deliver manually.
+the user-set to bulk reset. Decide for which domain you can securely provide passwords 
+via email and for which you need to generate files which you will deliver manually.
 
 Drop me a comment if you could use this tool ;-)
 
